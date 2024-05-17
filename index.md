@@ -54,5 +54,5 @@ docs/index.md から docs/huga/hoge.md にリンクを張る場合
 # 画像
 docs/index.md で docs/hoge.png の画像を表示したい場合
 
-![ほげ](./hoge.png)
+![ほげ](./images.jpg)
 
