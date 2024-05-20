@@ -1,4 +1,4 @@
-[inde.mdへ](/index.md)
+[index.mdへ](/index.md)
 
 ## 打消し
 あいうえお~~かきくけこ~~さしすせそ
