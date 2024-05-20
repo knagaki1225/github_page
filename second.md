@@ -12,10 +12,10 @@
 これが`code`です
 
 ## テーブル記法
-| th | th | th |
-| ---- | ---- | ---- |
-| td | td | td |
-| td | td | td |
+| th | th |
+| --- | --- |
+| td | td |
+| td | td |
 
 ## 文字色
 <font color="Red">テキスト</font>
